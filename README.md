@@ -127,4 +127,4 @@ B.Tech CSE (AI/ML)
 
 ##  Acknowledgment
 
-This project demonstrates the integration of **Data Analytics + Machine Learning + AI** in a real-world business scenario.
+This project demonstrates the integration of Data Analytics + Machine Learning + AI in a real-world business scenario.
