@@ -118,13 +118,13 @@ This dashboard helps:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 PARIDHI CHAHAL
 B.Tech CSE (AI/ML)
 
 ---
 
-## ⭐ Acknowledgment
+##  Acknowledgment
 
 This project demonstrates the integration of **Data Analytics + Machine Learning + AI** in a real-world business scenario.
